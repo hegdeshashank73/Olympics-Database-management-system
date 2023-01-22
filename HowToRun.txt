@@ -1,0 +1,27 @@
+1. First Run the Database_crt.py file
+To create the database for this project
+
+2. Next run the Tables_crt.py file
+To create the tables needed for this project
+
+3. Now run the Tables_upt.py file
+To load all the data needed in the tables
+
+4. Now run the Pro1, Trigger1, Trigger2 files in mysql in DBMSProject database
+To load the triggers and procedures
+
+
+
+
+
+
+
+Explaination:
+Trigger1 : 
+Calls the Procedure1 when the status of the player is approved by the admin.
+
+Procedure1 : 
+Deletes the player row from the approval table when the player's status is approved.
+
+Trigger2 : 
+Gives the category to the player based on his/her age. This data is updated in the approval table.

@@ -1,0 +1,44 @@
+PLAYER
+Pid
+First name
+Last name
+Gender
+Weight
+Height
+Age
+Status
+Eid
+
+EVENT
+Eid
+Event name
+Year
+Season
+
+LOCATION
+Lid
+City
+Country
+Eid
+
+CATEGORY
+Cid
+Catogery Name
+Eid
+
+MEDAL
+Pid
+Medal won
+Cid
+Eid
+
+APPROVAL
+Pid
+TimeOfRegister
+Cid
+Eid
+Lid
+
+SUGGESTION
+Name
+Suggestion
